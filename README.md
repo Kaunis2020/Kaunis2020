@@ -3,26 +3,5 @@
 <!--
 **Kaunis2020/Kaunis2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Älskar djur.
-           .               ,.
-          T."-._..---.._,-"/|
-          l|"-.  _.v._   (" |
-          [l /.'_ \; _~"-.`-t
-          Y " _(o} _{o)._ ^.|
-          j  T  ,--.  T  ]
-          \  l ( /-^-\ ) !  !
-           \. \.  "~"  ./  /c-..,__
-             ^r- .._ .- .-"  `- .  ~"--.
-              > \.                      \
-              ]   ^.                     \
-              3  .  ">            .       Y  
- ,.__.--._   _j   \ ~   .         ;       |
-(    ~"-._~"^._\   ^.    ^._      I     . l
- "-._ ___ ~"-,_7    .Z-._   7"   Y      ;  \        _
-    /"   "~-(r r  _/_--._~-/    /      /,.--^-._   / Y
-    "-._    '"~~~>-._~]>--^---./____,.^~        ^.^  !
-        ~--._    '   Y---.                        \./
-             ~~--._  l_   )                        \
-                   ~-._~~~---._,____..---           \
-                       ~----"~       \
-                                      \
+Älskar djur. :sparkling_heart: :sparkling_heart: :sparkling_heart:
+       
